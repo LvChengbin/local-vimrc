@@ -1,5 +1,5 @@
 # local-vimrc
-Loading local .vimrc file from project directory.
+Loading the nearest .vimrc file to the editing file.
 
 ## Installation
 
