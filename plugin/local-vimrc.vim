@@ -14,4 +14,5 @@ if expand( '%:t' ) != b:rcfilename
     if b:localrcfile isnot '' && b:localrcfile != $HOME . '/' . b:rcfilename
         execute 'source ' . b:localrcfile
     endif
+    
 endif
